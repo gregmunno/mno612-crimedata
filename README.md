@@ -2,39 +2,53 @@
 
 Students must use Microsoft Excel to complete this exercise and should follow along as closely as possible. A free version of Excel is available through the uniersity by downloading Office365. Instructions are at  https://answers.syr.edu/display/software/Office+365+@+Syracuse+University 
 
-Go to https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017 >>> Note the various information provided >>> Click on Violent Crime 
+1. Go to https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017 >>> Note the various information provided 
+
+2. Click on Violent Crime 
 
 We won’t go through the information on this page, but if we were writing real stories about this data, understanding these caveats are essential. 
 
 Explore the type of data available in the various tables at right by scrolling over them.
 
-Click on Table 8
+3. Click on Table 8
 
 Reading the Data Declaration is essential when writing about this material, but we will skip that step this evening. It provides definitions of certain items in the table. For instance, you'll notice cities report rape differently. The Data Declaration explains why. 
 
-Click on Download Excel 
+4. Click on Download Excel 
 
-Open in Excel
+5. Open in Excel
 
-Click on Enable Editing and Enable Content if those warnings appear
+6. Click on Enable Editing and Enable Content if those warnings appear
 
-Save as "ViolentCrime_Master"
+7. Save as "ViolentCrime_Master"
 
-Save again as "ViolentCrime_Working" 
+8. Save again as "ViolentCrime_Working." 
+
+Note importance of data preservation and organization.  
 
 Note column, row, cell structure
 
-Try to sort Column D -- Violent Crime. Note problems with merged cells. Note undesiarablity of having headlines and footnotes sort with data. 
+9. Try to sort Column D -- Violent Crime. 
 
-Click on Row 1 (click on the actual number). Hold down shift and click on the "3" 
+Note problems with merged cells. 
 
-Right click and delete. 
+Note undesiarablity of having headlines and footnotes sort with data. 
 
-Highlight full document by clicking on the triangle between the rows and columns in upper left of the table. 
+10. Click on Row 1 (click on the actual number). 
 
-Go to Merge and Center in the toolbar and select Unmerge Cells
+11. Hold down shift and click on the "3" 
 
-Scroll to bottom and delete footnotes
+12. Right click and delete. 
+
+13. Highlight full document by clicking on the triangle between the rows and columns in upper left of the table. 
+
+14. Go to Merge and Center in the toolbar and select Unmerge Cells
+
+15. Scroll to bottom and delete footnotes
+
+16. Demonstrate Fill Down function with Alabama 
+
+17. 
 
 
 
