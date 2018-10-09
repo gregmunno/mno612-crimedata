@@ -48,7 +48,54 @@ Note undesiarablity of having headlines and footnotes sort with data.
 
 16. Demonstrate Fill Down function with Alabama 
 
-17. 
+17. To save time, download a clean copy of the data at https://drive.google.com/drive/folders/1qJKJKy0aUBi8lyfhkyBHvvvtec5a-evu?usp=sharing 
+
+Note the reoganization of the state and city columns. 
+
+18. Let's try to sort again, this time by population. 
+
+Note the importance of finding known data points to check validity of data. 
+
+19. Question for the class: How many "cases" are in the dataset? How many "cases" have more than 50,000 people population.
+
+Note oddity of Sunriver. 
+
+20. Create a formula to test whether Violent Crime is an aggregate number, inclusive of the other violent crime measures. =sum(e2:h2)
+
+Explain decision to truncate to 50,000 (Tab 2) and explore times when that would not be a smart approach.
+
+20. Now let's sort by violent crime, using tab 2 (50K+). 
+
+21: Questions for the class: What city has the most? Is that interesting/meaningful? How might we make it more meaningful? 
+
+22. In N1, write vc100K 
+
+23. In N2, write =(c2/b2)*100000
+
+24. Highlight N2, scroll to bottom. Highlight N791. Click "Fill Down." 
+
+25. Sort.
+
+Discuss findings. 
+
+26. In o2 write =average(N2:791)  
+
+27. What's the lead of the story so far?
+
+28. What's your hometown, or the closest municipality to you that has 50,000 or more people. How does it compare to the national average? 
+
+29. How about Syracuse? 
+
+30. What else would you want to know before writing a story?
+
+31. If time, explore pivot table to aggregate by state. 
+
+32. If time, create a simple excel visualization comparing the "Thruway Cities" of Syracuse, Rochester, Buffalo, and Albany. 
+
+
+
+
+
 
 
 
