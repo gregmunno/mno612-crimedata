@@ -1,6 +1,8 @@
 # Understanding Tables, Using Excel
 
-Students must use Microsoft Excel to complete this exercise and should follow along as closely as possible. A free version of Excel is available through the uniersity by downloading Office365. Instructions are at  https://answers.syr.edu/display/software/Office+365+@+Syracuse+University 
+*Students must use Microsoft Excel to complete this exercise and should follow along as closely as possible. A free version of Excel is available through the uniersity by downloading Office365. Instructions are at  https://answers.syr.edu/display/software/Office+365+@+Syracuse+University 
+
+*GitHub (example at https://github.com/washingtonpost)
 
 1. Go to https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017 >>> Note the various information provided 
 
@@ -24,15 +26,15 @@ Reading the Data Declaration is essential when writing about this material, but 
 
 8. Save again as "ViolentCrime_Working." 
 
-Note importance of data preservation and organization.  
+*Note importance of data preservation and organization.  
 
-Note column, row, cell structure
+*Note column, row, cell structure
 
 9. Try to sort Column D -- Violent Crime. 
 
-Note problems with merged cells. 
+*Note problems with merged cells. 
 
-Note undesiarablity of having headlines and footnotes sort with data. 
+*Note undesiarablity of having headlines and footnotes sort with data. 
 
 10. Click on Row 1 (click on the actual number). 
 
@@ -50,7 +52,7 @@ Note undesiarablity of having headlines and footnotes sort with data.
 
 17. To save time, download a clean copy of the data at https://drive.google.com/open?id=17PILrwi6dOX7oJ4kRsO28R7syFeuCZBH
 
-Note the reoganization of the state and city columns. 
+*Note the reoganization of the state and city columns. 
 
 18. Let's try to sort again, this time by population. 
 
@@ -58,11 +60,11 @@ Note the importance of finding known data points to check validity of data.
 
 19. Question for the class: How many "cases" are in the dataset? How many "cases" have more than 50,000 people population.
 
-Note oddity of Sunriver. 
+*Note oddity of Sunriver. 
 
 20. Create a formula to test whether Violent Crime is an aggregate number, inclusive of the other violent crime measures. =sum(e2:h2)
 
-Explain decision to truncate to 50,000 (Tab 2) and explore times when that would not be a smart approach.
+*Explain decision to truncate to 50,000 (Tab 2) and explore times when that would not be a smart approach.
 
 20. Now let's sort by violent crime, using tab 2 (50K+). 
 
@@ -76,7 +78,7 @@ Explain decision to truncate to 50,000 (Tab 2) and explore times when that would
 
 25. Sort.
 
-Discuss findings. 
+*Discuss findings. 
 
 26. In o2 write =average(N2:791)  
 
