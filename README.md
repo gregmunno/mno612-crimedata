@@ -36,7 +36,7 @@ Note undesiarablity of having headlines and footnotes sort with data.
 
 10. Click on Row 1 (click on the actual number). 
 
-11. Hold down shift and click on the "3" 
+11. Hold down shift and click on the "3" for Row 3
 
 12. Right click and delete. 
 
@@ -48,7 +48,7 @@ Note undesiarablity of having headlines and footnotes sort with data.
 
 16. Demonstrate Fill Down function with Alabama 
 
-17. To save time, download a clean copy of the data at https://drive.google.com/drive/folders/1qJKJKy0aUBi8lyfhkyBHvvvtec5a-evu?usp=sharing 
+17. To save time, download a clean copy of the data at https://drive.google.com/open?id=17PILrwi6dOX7oJ4kRsO28R7syFeuCZBH
 
 Note the reoganization of the state and city columns. 
 
@@ -66,7 +66,7 @@ Explain decision to truncate to 50,000 (Tab 2) and explore times when that would
 
 20. Now let's sort by violent crime, using tab 2 (50K+). 
 
-21: Questions for the class: What city has the most? Is that interesting/meaningful? How might we make it more meaningful? 
+21: Questions for the class: What city has the most violent crime? Is that interesting/meaningful? How might we make it more meaningful? 
 
 22. In N1, write vc100K 
 
@@ -88,9 +88,7 @@ Discuss findings.
 
 30. What else would you want to know before writing a story?
 
-31. If time, explore pivot table to aggregate by state. 
-
-32. If time, create a simple excel visualization comparing the "Thruway Cities" of Syracuse, Rochester, Buffalo, and Albany. 
+31. If time, explore pivot table to aggregate by state; explore violent crime by other rates; create a simple excel visualization comparing the "Thruway Cities" of Syracuse, Rochester, Buffalo, and Albany. 
 
 
 
