@@ -50,7 +50,7 @@ Reading the Data Declaration is essential when writing about this material, but 
 
 16. Demonstrate Fill Down function with Alabama 
 
-17. To save time, download a clean copy of the data at https://drive.google.com/open?id=17PILrwi6dOX7oJ4kRsO28R7syFeuCZBH
+17. To save time, download a clean copy of the data at https://drive.google.com/open?id=1Oiu_SvF5JckQX9Vr0rx-FLgNO5BlHTMg
 
 *Note the reoganization of the state and city columns. 
 
