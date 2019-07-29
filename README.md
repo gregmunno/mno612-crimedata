@@ -2,6 +2,8 @@
 
 *Students must use Microsoft Excel to complete this exercise and should follow along as closely as possible. A free version of Excel is available through the uniersity by downloading Office365. Instructions are at  https://answers.syr.edu/display/software/Office+365+@+Syracuse+University 
 
+Today's slides at https://drive.google.com/open?id=1_TF7qkZAwxigMSPc5kME4cAiX69BSRXG 
+
 Check out https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/
 
 See the Onondaga County Data at https://drive.google.com/open?id=1FZc1Y7pw7_Yp9E-Lv0He84MOGD66upc7
