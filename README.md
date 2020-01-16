@@ -4,7 +4,7 @@
 
 *GitHub (example at https://github.com/washingtonpost)
 
-1. Go to https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017 >>> Note the various information provided 
+1. Go to https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018 >>> Note the various information provided 
 
 2. Click on Violent Crime 
 
@@ -14,7 +14,7 @@ Explore the type of data available in the various tables at right by scrolling o
 
 3. Click on Table 8
 
-Reading the Data Declaration is essential when writing about this material, but we will skip that step this evening. It provides definitions of certain items in the table. For instance, you'll notice cities report rape differently. The Data Declaration explains why. 
+Reading the Data Declaration is essential when writing about this material, but we will skip that step this evening. It provides definitions of certain items in the table. For instance, you'll notice cities report rape differently. The Data Declaration explains why (sort of). 
 
 4. Click on Download Excel 
 
@@ -22,9 +22,9 @@ Reading the Data Declaration is essential when writing about this material, but 
 
 6. Click on Enable Editing and Enable Content if those warnings appear
 
-7. Save as "ViolentCrime_Master"
+7. Save as "ViolentCrime2018_Master"
 
-8. Save again as "ViolentCrime_Working." 
+8. Save again as "ViolentCrime2018_Working." 
 
 *Note importance of data preservation and organization.  
 
@@ -50,13 +50,13 @@ Reading the Data Declaration is essential when writing about this material, but 
 
 16. Demonstrate Fill Down function with Alabama 
 
-17. To save time, download a clean copy of the data at https://drive.google.com/open?id=1Oiu_SvF5JckQX9Vr0rx-FLgNO5BlHTMg
+17. To save time, download a clean copy of the data at https://drive.google.com/open?id=1D1_K8THJpdcI4059cppgA8iC8HWbYBzx 
 
 *Note the reoganization of the state and city columns. 
 
 18. Let's try to sort again, this time by population. 
 
-Note the importance of finding known data points to check validity of data. 
+*Note the importance of finding known data points to check validity of data. 
 
 19. Question for the class: How many "cases" are in the dataset? How many "cases" have more than 50,000 people population.
 
@@ -66,21 +66,27 @@ Note the importance of finding known data points to check validity of data.
 
 *Explain decision to truncate to 50,000 (Tab 2) and explore times when that would not be a smart approach.
 
-20. Now let's sort by violent crime, using tab 2 (50K+). 
+20. Now let's sort by population
 
-21: Questions for the class: What city has the most violent crime? Is that interesting/meaningful? How might we make it more meaningful? 
+21. Creating a 50K population cut off. 
 
-22. In N1, write vc100K 
+22. Sort by violent crime. 
 
-23. In N2, write =(c2/b2)*100000
+23: Questions for the class: What city has the most violent crime? Is that interesting/meaningful? How might we make it more meaningful? 
 
-24. Highlight N2, scroll to bottom. Highlight N791. Click "Fill Down." 
+24. Calculating the per capita and rate
 
-25. Sort.
+24. In N1, write vc100K 
+
+25. In N2, write =(d2/c2)*100000
+
+24. Highlight N2, scroll to bottom. Highligh. Click "Fill Down." 
+
+26. Sort.
 
 *Discuss findings. 
 
-26. In o2 write =average(N2:791)  
+26. In o2 write =average(N2:783)  
 
 27. What's the lead of the story so far?
 
